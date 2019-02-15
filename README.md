@@ -20,7 +20,7 @@ Rees Alumasa
 | A triangle is scalene:<br><li>None of the sides are equal</li><li>Sum of any two sides is greater than the remainng side</li>| <li>a=4</li><li>b=5</li><li>c=6</li> | Scalene Triangle |
 | Triangle with either of the two sides <br>summation less than or equal to the third remaining side | <li>a=4</li><li>b=6</li><li>c=12</li> | NOT a triangle at all |
 
-### Sample Layout
+### **Sample Layout**
 <img src="img/sample.png">
 
 ### Technologies used
