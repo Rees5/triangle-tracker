@@ -19,9 +19,8 @@ a {
   border-style: outset;
   box-decoration-break: slice;
 }
-img {
-position: relative;
-}
-.new {
-  position: absolute;
+p {
+  text-align: center;
+  color: white;
+  font-size: 30px;
 }
