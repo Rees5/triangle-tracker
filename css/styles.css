@@ -22,5 +22,9 @@ a {
 p {
   text-align: center;
   color: white;
-  font-size: 30px;
+  font-size: 20px;
+}
+@@media screen
+and (min-width=50px)
+and(max-width=1200px) {
 }
