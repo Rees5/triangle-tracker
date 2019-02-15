@@ -1,7 +1,27 @@
 h1 {
-  color: brown;
+  color: white;
   text-align: center;
+  border: 5px white;
+  background-color: gray;
+  padding: 5px;
+  border-style: outset;
+  margin-left: 30%;
+  margin-right: 30%
 }
 body {
-  background-color: skyblue;
+  background-color: silver;
+}
+a {
+  align-self: flex-start;
+  color: lightcyan;
+  border: 5px #557975;
+  background-color: DarkSlateGray;
+  border-style: outset;
+  box-decoration-break: slice;
+}
+img {
+position: relative;
+}
+.new {
+  position: absolute;
 }
