@@ -11,7 +11,7 @@ if(a+b<=c||a+c<=b||b+c<=a) {
 } else if(a===b&&a!==c||a===c&&a!==b||b===c&&b!==a) {
   alert("Isosceles Triangle");
 } else if(a!==b&&b!==c&&a!==c&&a+b>c&&a+c>b&&b+c>a) {
-  alert("Scalene Triangle")
+  alert("Your values" a,+b,+,c "form a:"<br>+"Scalene Triangle")
 } else {
   alert("NOT a Triangle at all")
 }
