@@ -1,7 +1,7 @@
 # Triangle Tracker
 ## Description
 **Triangle Tracker** is an application that allows a user to enter the length values of the three sides of a triangle a,b,c in the application.
-After submitting the values, the application returns the type of triangle depending on the values as isosceles, equilateral, scalene or NO triangle at all.
+After submitting the values, the application returns the type of triangle depending on the values as isosceles, equilateral, scalene or NOT a triangle at all.
 
 ### Author
 Rees Alumasa
@@ -29,5 +29,5 @@ Rees Alumasa
 * Tel: *+254792756002*
 * Website: *https://reestv.yolasite.com*
 ### License and Copyright
-**MIT** License<br>
-Copyright **(c)** 2019 Rees Alumasa
+* **MIT** License
+* Copyright **(c)** 2019 Rees Alumasa
